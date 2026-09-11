@@ -1,5 +1,2 @@
 1) https://github.com/paiflare/ml_hse_2026/tree/master
-2) https://mml-book.github.io
-3) https://www.statlearning.com
-4) https://tvims.nsu.ru/chernova/tv/portr.pdf
-5) https://tvims.nsu.ru/chernova/sibguti/ms-sibguti.pdf
+2) https://drive.google.com/drive/folders/1D8Rp173-JcbkkIWBlE0XNJaIL7HoWxH0?usp=share_link
